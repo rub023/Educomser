@@ -17,6 +17,7 @@ namespace ConsoleApp1
         public int celular;
         public string correo;
         // con herencia
+        //jlgfdgfd
 
 
 
